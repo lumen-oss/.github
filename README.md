@@ -1,1 +1,3 @@
-# .github
+# nvim-neorocks
+
+Neovim ❤️ LuaRocks [WIP]
