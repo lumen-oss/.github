@@ -1,6 +1,6 @@
 # nvim-neorocks
 
-Neovim ❤️ LuaRocks [WIP]
+Neovim ❤️ LuaRocks
 
 <!--
 
