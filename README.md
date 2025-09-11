@@ -1,3 +1,1 @@
-# nvim-neorocks
-
-Neovim ❤️ LuaRocks [WIP]
+# Lumen Labs
