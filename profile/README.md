@@ -1,4 +1,4 @@
-# Lumen
+# Lumen Labs
 
 We 💜 Lua
   
